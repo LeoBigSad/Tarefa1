@@ -1,0 +1,42 @@
+C:\Users\Avest\OneDrive\Documentos\projetos vs\Tarefa1\Tarefa1\bin\Debug\net8.0\Tarefa1.exe
+C:\Users\Avest\OneDrive\Documentos\projetos vs\Tarefa1\Tarefa1\bin\Debug\net8.0\Tarefa1.deps.json
+C:\Users\Avest\OneDrive\Documentos\projetos vs\Tarefa1\Tarefa1\bin\Debug\net8.0\Tarefa1.runtimeconfig.json
+C:\Users\Avest\OneDrive\Documentos\projetos vs\Tarefa1\Tarefa1\bin\Debug\net8.0\Tarefa1.dll
+C:\Users\Avest\OneDrive\Documentos\projetos vs\Tarefa1\Tarefa1\bin\Debug\net8.0\Tarefa1.pdb
+C:\Users\Avest\OneDrive\Documentos\projetos vs\Tarefa1\Tarefa1\obj\Debug\net8.0\Tarefa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avest\OneDrive\Documentos\projetos vs\Tarefa1\Tarefa1\obj\Debug\net8.0\Tarefa1.AssemblyInfoInputs.cache
+C:\Users\Avest\OneDrive\Documentos\projetos vs\Tarefa1\Tarefa1\obj\Debug\net8.0\Tarefa1.AssemblyInfo.cs
+C:\Users\Avest\OneDrive\Documentos\projetos vs\Tarefa1\Tarefa1\obj\Debug\net8.0\Tarefa1.csproj.CoreCompileInputs.cache
+C:\Users\Avest\OneDrive\Documentos\projetos vs\Tarefa1\Tarefa1\obj\Debug\net8.0\Tarefa1.dll
+C:\Users\Avest\OneDrive\Documentos\projetos vs\Tarefa1\Tarefa1\obj\Debug\net8.0\refint\Tarefa1.dll
+C:\Users\Avest\OneDrive\Documentos\projetos vs\Tarefa1\Tarefa1\obj\Debug\net8.0\Tarefa1.pdb
+C:\Users\Avest\OneDrive\Documentos\projetos vs\Tarefa1\Tarefa1\obj\Debug\net8.0\Tarefa1.genruntimeconfig.cache
+C:\Users\Avest\OneDrive\Documentos\projetos vs\Tarefa1\Tarefa1\obj\Debug\net8.0\ref\Tarefa1.dll
+C:\Users\leozi\Desktop\Tarefa1 - Copia\Tarefa1\bin\Debug\net8.0\Tarefa1.exe
+C:\Users\leozi\Desktop\Tarefa1 - Copia\Tarefa1\bin\Debug\net8.0\Tarefa1.deps.json
+C:\Users\leozi\Desktop\Tarefa1 - Copia\Tarefa1\bin\Debug\net8.0\Tarefa1.runtimeconfig.json
+C:\Users\leozi\Desktop\Tarefa1 - Copia\Tarefa1\bin\Debug\net8.0\Tarefa1.dll
+C:\Users\leozi\Desktop\Tarefa1 - Copia\Tarefa1\bin\Debug\net8.0\Tarefa1.pdb
+C:\Users\leozi\Desktop\Tarefa1 - Copia\Tarefa1\obj\Debug\net8.0\Tarefa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leozi\Desktop\Tarefa1 - Copia\Tarefa1\obj\Debug\net8.0\Tarefa1.AssemblyInfoInputs.cache
+C:\Users\leozi\Desktop\Tarefa1 - Copia\Tarefa1\obj\Debug\net8.0\Tarefa1.AssemblyInfo.cs
+C:\Users\leozi\Desktop\Tarefa1 - Copia\Tarefa1\obj\Debug\net8.0\Tarefa1.csproj.CoreCompileInputs.cache
+C:\Users\leozi\Desktop\Tarefa1 - Copia\Tarefa1\obj\Debug\net8.0\Tarefa1.dll
+C:\Users\leozi\Desktop\Tarefa1 - Copia\Tarefa1\obj\Debug\net8.0\refint\Tarefa1.dll
+C:\Users\leozi\Desktop\Tarefa1 - Copia\Tarefa1\obj\Debug\net8.0\Tarefa1.pdb
+C:\Users\leozi\Desktop\Tarefa1 - Copia\Tarefa1\obj\Debug\net8.0\Tarefa1.genruntimeconfig.cache
+C:\Users\leozi\Desktop\Tarefa1 - Copia\Tarefa1\obj\Debug\net8.0\ref\Tarefa1.dll
+C:\Users\leozi\Desktop\Tarefa1\Tarefa1\bin\Debug\net8.0\Tarefa1.exe
+C:\Users\leozi\Desktop\Tarefa1\Tarefa1\bin\Debug\net8.0\Tarefa1.deps.json
+C:\Users\leozi\Desktop\Tarefa1\Tarefa1\bin\Debug\net8.0\Tarefa1.runtimeconfig.json
+C:\Users\leozi\Desktop\Tarefa1\Tarefa1\bin\Debug\net8.0\Tarefa1.dll
+C:\Users\leozi\Desktop\Tarefa1\Tarefa1\bin\Debug\net8.0\Tarefa1.pdb
+C:\Users\leozi\Desktop\Tarefa1\Tarefa1\obj\Debug\net8.0\Tarefa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leozi\Desktop\Tarefa1\Tarefa1\obj\Debug\net8.0\Tarefa1.AssemblyInfoInputs.cache
+C:\Users\leozi\Desktop\Tarefa1\Tarefa1\obj\Debug\net8.0\Tarefa1.AssemblyInfo.cs
+C:\Users\leozi\Desktop\Tarefa1\Tarefa1\obj\Debug\net8.0\Tarefa1.csproj.CoreCompileInputs.cache
+C:\Users\leozi\Desktop\Tarefa1\Tarefa1\obj\Debug\net8.0\Tarefa1.dll
+C:\Users\leozi\Desktop\Tarefa1\Tarefa1\obj\Debug\net8.0\refint\Tarefa1.dll
+C:\Users\leozi\Desktop\Tarefa1\Tarefa1\obj\Debug\net8.0\Tarefa1.pdb
+C:\Users\leozi\Desktop\Tarefa1\Tarefa1\obj\Debug\net8.0\Tarefa1.genruntimeconfig.cache
+C:\Users\leozi\Desktop\Tarefa1\Tarefa1\obj\Debug\net8.0\ref\Tarefa1.dll
